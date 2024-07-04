@@ -11,9 +11,6 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:client/main.dart';
 
 void main() {
-<<<<<<< Updated upstream
   print('wlcome to test');
-=======
-  print('hello')
->>>>>>> Stashed changes
+
 }
